@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mohamed mahdy\\c#\\emp system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\view_model\\logvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\view_model\\logvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\view_model\\regvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\view_model\\regvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\validation\\ex_handel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\validation\\ex_handel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\shared\\ex_handel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\shared\\ex_handel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\models\\specialty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\emp system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\emp system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\account\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\account\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\views\\doctor\\edite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\views\\doctor\\edite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\repositiry\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\repositiry\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|e:\\mohamed mahdy\\c#\\emp system\\emp system\\migrations\\20241027205349_aas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B24E040-BCD4-4A74-921E-1AF66FEA8AEC}|emp system\\emp system.csproj|solutionrelative:emp system\\migrations\\20241027205349_aas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "patientController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\patientController.cs",
+              "RelativeDocumentMoniker": "emp system\\Controllers\\patientController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\patientController.cs",
+              "RelativeToolTip": "emp system\\Controllers\\patientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:24:04.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "specialtyController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\specialtyController.cs",
+              "RelativeDocumentMoniker": "emp system\\Controllers\\specialtyController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\specialtyController.cs",
+              "RelativeToolTip": "emp system\\Controllers\\specialtyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:58:10.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appuser.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Models\\appuser.cs",
+              "RelativeDocumentMoniker": "emp system\\Models\\appuser.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Models\\appuser.cs",
+              "RelativeToolTip": "emp system\\Models\\appuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:50:24.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appcontext.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Models\\appcontext.cs",
+              "RelativeDocumentMoniker": "emp system\\Models\\appcontext.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Models\\appcontext.cs",
+              "RelativeToolTip": "emp system\\Models\\appcontext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:57:33.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Program.cs",
+              "RelativeDocumentMoniker": "emp system\\Program.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Program.cs",
+              "RelativeToolTip": "emp system\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:59:35.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "regvm.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\view_model\\regvm.cs",
+              "RelativeDocumentMoniker": "emp system\\view_model\\regvm.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\view_model\\regvm.cs",
+              "RelativeToolTip": "emp system\\view_model\\regvm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:07:24.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "accountController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\accountController.cs",
+              "RelativeDocumentMoniker": "emp system\\Controllers\\accountController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\accountController.cs",
+              "RelativeToolTip": "emp system\\Controllers\\accountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:05:39.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logvm.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\view_model\\logvm.cs",
+              "RelativeDocumentMoniker": "emp system\\view_model\\logvm.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\view_model\\logvm.cs",
+              "RelativeToolTip": "emp system\\view_model\\logvm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:11:05.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ex_handel.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\validation\\Ex_handel.cs",
+              "RelativeDocumentMoniker": "emp system\\validation\\Ex_handel.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\validation\\Ex_handel.cs",
+              "RelativeToolTip": "emp system\\validation\\Ex_handel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:51:07.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "emp system\\Controllers\\AppointmentController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "emp system\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:14:19.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "doctorController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\doctorController.cs",
+              "RelativeDocumentMoniker": "emp system\\Controllers\\doctorController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\doctorController.cs",
+              "RelativeToolTip": "emp system\\Controllers\\doctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:14:26.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "emp system\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "emp system\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:14:35.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ex_handel.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\Shared\\ex_handel.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\Shared\\ex_handel.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\Shared\\ex_handel.cshtml",
+              "RelativeToolTip": "emp system\\Views\\Shared\\ex_handel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T08:59:30.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appointment.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Models\\appointment.cs",
+              "RelativeDocumentMoniker": "emp system\\Models\\appointment.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Models\\appointment.cs",
+              "RelativeToolTip": "emp system\\Models\\appointment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:44:51.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "specialty.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Models\\specialty.cs",
+              "RelativeDocumentMoniker": "emp system\\Models\\specialty.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Models\\specialty.cs",
+              "RelativeToolTip": "emp system\\Models\\specialty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:31:52.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "emp system.csproj",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\emp system.csproj",
+              "RelativeDocumentMoniker": "emp system\\emp system.csproj",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\emp system.csproj",
+              "RelativeToolTip": "emp system\\emp system.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T08:30:58.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "emp system\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T21:30:34.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\account\\login.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\account\\login.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\account\\login.cshtml",
+              "RelativeToolTip": "emp system\\Views\\account\\login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T21:12:46.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\patient\\Index.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\patient\\Index.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\patient\\Index.cshtml",
+              "RelativeToolTip": "emp system\\Views\\patient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T14:24:27.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "regester.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\account\\regester.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\account\\regester.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\account\\regester.cshtml",
+              "RelativeToolTip": "emp system\\Views\\account\\regester.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T15:12:15.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241027205349_aas.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Migrations\\20241027205349_aas.cs",
+              "RelativeDocumentMoniker": "emp system\\Migrations\\20241027205349_aas.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Migrations\\20241027205349_aas.cs",
+              "RelativeToolTip": "emp system\\Migrations\\20241027205349_aas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:53:51.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "emp system\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T14:22:03.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\Appointment\\create.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\Appointment\\create.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\Appointment\\create.cshtml",
+              "RelativeToolTip": "emp system\\Views\\Appointment\\create.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T14:19:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\appsettings.json",
+              "RelativeDocumentMoniker": "emp system\\appsettings.json",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\appsettings.json",
+              "RelativeToolTip": "emp system\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T14:11:03.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\doctor\\create.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\doctor\\create.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\doctor\\create.cshtml",
+              "RelativeToolTip": "emp system\\Views\\doctor\\create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T14:08:27.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "patientrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\repositiry\\patientrepo.cs",
+              "RelativeDocumentMoniker": "emp system\\repositiry\\patientrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\repositiry\\patientrepo.cs",
+              "RelativeToolTip": "emp system\\repositiry\\patientrepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:55:29.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "edite.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\doctor\\edite.cshtml",
+              "RelativeDocumentMoniker": "emp system\\Views\\doctor\\edite.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\emp system\\emp system\\Views\\doctor\\edite.cshtml",
+              "RelativeToolTip": "emp system\\Views\\doctor\\edite.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:16:22.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

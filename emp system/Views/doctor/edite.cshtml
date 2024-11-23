@@ -1,0 +1,42 @@
+﻿@model emp_system.Models.doctor
+
+@{
+    ViewData["Title"] = "edite";
+    SelectList selectListItems = new SelectList(ViewBag.splist, "specialtyid", "Name");
+}
+
+<h1>Edite</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="saveedite" asp-route-id="@Model.DoctorId" method="post" >
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sepcialtyid" class="control-label"></label>
+                <select asp-for="sepcialtyid" class="form-control" asp-items="selectListItems">
+                <option>--select--</option>
+                </select>
+                <span asp-validation-for="sepcialtyid" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br/>
+<div>
+    <a asp-action="Index" class="btn btn-success">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

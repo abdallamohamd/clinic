@@ -1,0 +1,59 @@
+﻿@model emp_system.Models.patient
+
+@{
+    ViewData["Title"] = "edite";
+}
+
+<h1 class="p-3">Edite</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="saveedite" asp-route-id="@Model.Id" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="age" class="control-label"></label>
+                <input asp-for="age" class="form-control" />
+                <span asp-validation-for="age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="address" class="control-label"></label>
+                <input asp-for="address" class="form-control" />
+                <span asp-validation-for="address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="phone" class="control-label"></label>
+                <input asp-for="phone" class="form-control" />
+                <span asp-validation-for="phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ex_date" class="control-label"></label>
+                <input asp-for="ex_date" class="form-control" />
+                <span asp-validation-for="ex_date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="diagnosis" class="control-label"></label>
+                <input asp-for="diagnosis" class="form-control" />
+                <span asp-validation-for="diagnosis" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-action="Index" class="btn btn-success"> Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

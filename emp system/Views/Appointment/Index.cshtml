@@ -1,0 +1,51 @@
+﻿@model IEnumerable<emp_system.Models.appointment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+  
+<div class="d-flex justify-content-evenly p-3">
+    <h1 class="">All_Appointment</h1>
+
+    <form class="d-flex" method="post" asp-action="Index">
+        <input name="sstring" class="form form-control" type="search" placeholder="search name" aria-label="search" />
+        <span> </span>
+        <button class="btn btn-danger" type="submit"> Search</button>
+     </form>
+</div>
+
+<br />
+
+<table class="table">
+    <thead class="table-primary">
+        <tr>
+            <th>Id      </th>
+            <th>P_Name  </th>
+            <th> Address   </th>
+            <th>Phone      </th>
+            <th>Age       </th>
+            <th>Appointmentdt </th>
+            <th>Specialty  </th>
+            <th> Action </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@item.Id  </td>
+            <td> @item.Patientname</td>
+            <td> @item.address   </td>
+            <td> @item.phone     </td>
+            <td> @item.age       </td>
+            <td>  @item.appointmentdate </td>
+            <td> @item.specialtys.Name  </td>
+            <td>
+                <a asp-action="edite" asp-controller="Appointment" asp-route-id="@item.Id" class="btn btn-primary">Edite</a>
+                <a asp-action="delete" asp-controller="Appointment" asp-route-id="@item.Id" class="btn btn-success"
+                       onclick="return confirm('هل أنت متأكد أنك تريد حذف هذا العنصر؟')">Delete</a>
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

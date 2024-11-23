@@ -1,0 +1,35 @@
+﻿@model IEnumerable<emp_system.Models.doctor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="p-3">All-Doctor</h1>
+
+<p class="pb-1">
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Id  </th>
+            <th> Name    </th>
+            <th> Specialty </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td> @item.DoctorId  </td>
+            <td> @item.Name</td>
+            <td> @item.specialty.Name </td>
+            <td>
+                    <a asp-action="edite" asp-controller="doctor" asp-route-id="@item.DoctorId" class="btn btn-primary">Edite</a>
+                    <a asp-action="delete" asp-controller="doctor" asp-route-id="@item.DoctorId" class="btn btn-success"
+                       onclick="return confirm('هل أنت متأكد أنك تريد حذف هذا العنصر؟')">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

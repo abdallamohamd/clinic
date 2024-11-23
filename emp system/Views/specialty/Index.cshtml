@@ -1,0 +1,33 @@
+﻿@model List<specialty>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="p-2">All_Specialties</h1>
+
+<p>
+    <a asp-action="create" class="btn btn-primary pb-3">Create New</a>
+</p>
+<table class="table">
+    <thead class="table-light">
+        <tr>
+            <th> Id  </th>
+            <th>   Name </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>    @item.specialtyid        </td>
+            <td>    @item.Name        </td>
+            <td>
+                    <a asp-action="edite" asp-controller="specialty" asp-route-id="@item.specialtyid" class="btn btn-primary">Edite</a>
+                    <a asp-action="delete" asp-controller="specialty" asp-route-id="@item.specialtyid" class="btn btn-success"
+                       onclick="return confirm('هل أنت متأكد أنك تريد حذف هذا العنصر؟')">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
